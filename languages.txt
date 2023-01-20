@@ -1,0 +1,1 @@
+My favorite programming language is Python. I like python because it offers a wide variety of accessible libraries and the syntax can be easier to read than other languages. Python works well as a scripting language. I am most experienced with Java, however. Java is more structured and I also enjoy it for object oriented coding. 

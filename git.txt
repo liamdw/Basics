@@ -1,0 +1,51 @@
+Exercise 1:
+
+int cmd_worktree(int ac, const char **av, const char *prefix)
+
+----------
+Exercise 2:
+
+RelNotes-1.5.2
+
+----------
+Exercise 3:
+
+The  'git cat-file -p 83484f' command
+will print all the files with a partial hash "83484f".
+
+the '| tail -4' command will pipe the output
+of the previous command into the tail command, which in this case with the -4
+argument will output the last 4 lines of the input.
+
+the '| head -1' command will pipe the output of the previous
+command into the head command, which in this case with the -1 argument will
+output the first line of the given input.
+
+----------
+Exercise 5:
+
+The commit message is as follows:
+"Update German translation for Git v2.31.0"
+
+----------
+Exercise 6:
+To output the commits that contain the word 'refactored', I added a grep argument to the given bash command:
+PAGER='head -n 80' git log --graph --oneline --grep='refactored' 
+
+----------
+Exercise 7:
+The first document listed that was changed between the two specified versions was:
+Documentation/RelNotes/2.31.1.txt
+
+----------
+Exercise 8:
+The list of branches for the git repository are as follows:
+  master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/jch
+  remotes/origin/main
+  remotes/origin/maint
+  remotes/origin/master
+  remotes/origin/next
+  remotes/origin/seen
+  remotes/origin/todo

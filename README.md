@@ -7,3 +7,5 @@ Scrum standup teammates:
 1. Ashish Aggarwal, (ashish1702)
 2. Parth Bapat, (bapatparth
 3. Connor Wyman, (conwyman801)
+
+1. Aditi Diwan (aditid)
